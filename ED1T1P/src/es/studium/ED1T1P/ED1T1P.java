@@ -1,6 +1,7 @@
 package es.studium.ED1T1P;
 
 import java.util.Random;
+//Comentario de Jose Luis
 
 public class ED1T1P {
 	static Random rnd=new Random();
@@ -17,7 +18,7 @@ public class ED1T1P {
 			contador++;
 
 			}
-		System.out.println("Se han generado "+contador+" números aleatorios");
+		System.out.println("Se han generado "+contador+" nÃºmeros aleatorios");
 	}
 
 }
